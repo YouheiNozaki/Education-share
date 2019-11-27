@@ -2,7 +2,7 @@
   "name": "education-share",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "src/server/index.tsjs",
   "scripts": {
     "server": "ts-node-dev src/server/index.ts",
     "start": "node dist/index.js",
